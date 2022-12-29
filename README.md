@@ -24,3 +24,5 @@ Install <b>Hack Nerd Font</b>
 Install `rofi`
 Copy the .dotfile (alacritty, i3, polybar, rofi) to `${HOME}/.config`,
 
+Find me on Instagram/kcandradp
+

@@ -13,7 +13,7 @@ This is a linux ricing project make linux with i3wm look like arasaka operating 
     <li>bar : Polybar</li>
     <li>font : Hack Nerd Font</li>
     <li>Clock : tty-clock</li>
-    <li><Rofi</li>
+    <li>Rofi</li>
 </ul>
 
 <b>How to Install</b>

@@ -26,3 +26,4 @@ Copy the .dotfile (alacritty, i3, polybar, rofi) to `${HOME}/.config`,
 
 Find me on Instagram : https://instagram.com/kcandradp
 
+di edit langsung di remote

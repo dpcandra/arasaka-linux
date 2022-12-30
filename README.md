@@ -29,6 +29,7 @@ Find me on Instagram : https://instagram.com/kcandradp
 di edit langsung di remote
 
 <b>Polybar</b>
+
 <img src="polybar-screenshot.png">
 Install <a href="https://github.com/polybar/polybar">Polybar</a>
 
@@ -42,10 +43,12 @@ and run the default theme, copy polybar `config.ini` to `~/.config/polybar`.
 For the Symbol on panel Install Hack Nerd Font
 
 <b>Tty-clock</b>
+
 <img src="tty-clock-screenshot.png" style="width:300px;">
 install tty-clock available on `apt` and `pacman`, but not available on fedora must build the package from https://github.com/xorg62/tty-clock
 
 <b>Arasaka Neofetch Logo</b>
+
 <img src="neofetch-screenshot.png" style="width:300px;">
 the ASCII.txt logo is on the asset folder
 Copy text , and replace `Qubes` distro logo on , `/usr/bin/neofetch`
